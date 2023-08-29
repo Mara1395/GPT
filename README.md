@@ -14,26 +14,22 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 * And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
 
-
+### Options
 In the project directory, you can run:
 
-npm start
+⚙️ __npm start__ 
+<br>
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+⚙️ __npm test__
+<br>
+Launches the test runner in the interactive watch mode. See the section about running tests for more information.
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+⚙️ __npm run build__
+<br>
+Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
 
