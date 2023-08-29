@@ -1,10 +1,12 @@
+<img src="https://github.com/Mara1395/GPT-3/assets/104097778/030dc18a-d7c0-4e3a-a730-99cfb8b9c670" alt="gpt" width="700">
+
+
 # GPT-3
 
 ## 📄 Introduction
 This project is all about diving deep into the world of web development, with a special focus on React, CSS, and deployment strategies.
 
 
-![gpt](https://github.com/Mara1395/GPT-3/assets/104097778/030dc18a-d7c0-4e3a-a730-99cfb8b9c670)
 
 ### Through this project I learned:
 * React Functional components and their reusability
@@ -17,7 +19,8 @@ This project is all about diving deep into the world of web development, with a 
 
 <br>
 
-![gpt__open_ai](https://github.com/Mara1395/GPT-3/assets/104097778/cff5f022-672a-4e14-bece-b96bb6dcb4b5)
+<img src="https://github.com/Mara1395/GPT-3/assets/104097778/cff5f022-672a-4e14-bece-b96bb6dcb4b5" alt="gpt" width="700">
+
 
 
 ## Options
@@ -50,5 +53,4 @@ Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 Contact me on the links below:
 * <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
-
-![gpt_possibilities](https://github.com/Mara1395/GPT-3/assets/104097778/03c97db4-c66b-4823-9e72-f0137e030812)
+<img src="https://github.com/Mara1395/GPT-3/assets/104097778/03c97db4-c66b-4823-9e72-f0137e030812" alt="gpt" width="700">
