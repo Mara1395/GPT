@@ -4,7 +4,7 @@
 # GPT-3
 
 ## 📄 Introduction
-This project is all about diving deep into the world of web development, with a special focus on React, CSS, and deployment strategies.
+This project is all about diving deep into the world of web development, with a special focus on React, CSS and deployment strategies.
 
 
 
@@ -20,7 +20,6 @@ This project is all about diving deep into the world of web development, with a 
 <br>
 
 <img src="https://github.com/Mara1395/GPT-3/assets/104097778/cff5f022-672a-4e14-bece-b96bb6dcb4b5" alt="gpt" width="700">
-
 
 
 ## Options
