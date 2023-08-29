@@ -1,7 +1,7 @@
 # GPT-3
 
 ## 📄 Introduction
-
+This project is all about diving deep into the world of web development, with a special focus on React, CSS, and deployment strategies.
 
 
 ![gpt](https://github.com/Mara1395/GPT-3/assets/104097778/030dc18a-d7c0-4e3a-a730-99cfb8b9c670)
